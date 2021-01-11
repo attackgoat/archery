@@ -2,6 +2,7 @@
 name = "a_r_c_h_e_r_y"
 description = "TEMPORARY CRATE"
 version = "0.4.1"
+authors = ["john@attackgoat.com"]
 
 edition = "2018"
 
